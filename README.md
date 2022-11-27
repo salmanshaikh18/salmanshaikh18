@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salmanshaikh18
+- 👋 Hi, I’m Salman Shaikh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning BCA (Bachelors's in Computer Application)
 - 💞️ I’m looking to collaborate on .....
