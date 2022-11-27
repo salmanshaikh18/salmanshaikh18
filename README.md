@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salmanshaikh18
-- 👀 I’m interested in software developer
+- 👀 I’m interested in web developer
 - 🌱 I’m currently learning BCA (Bachelors's in Computer Application)
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me .... salmanshaikh18786@gmail.com
