@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Salman Shaikh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning BCA (Bachelors's in Computer Application)
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me .... salmanshaikh18786@gmail.com
+-> 👋 Hi, I’m Salman Shaikh...
+🚀 Full Stack Web Developer 💻 | Turning Coffee into Code ☕ | Building Digital Dreams 🌟 | Passionate about creating seamless web experiences! Let's connect and code together! 👋👨‍💻 #WebDevelopment #JavaScript #HTML #CSS #MongoDB #NodeJs #Express #React
+- Connect via email: salmanshaikh18786@gmail.com 📩
 
-<!---
-salmanshaikh18/salmanshaikh18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
