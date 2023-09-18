@@ -1,5 +1,5 @@
 -> 👋 Hi, I’m Salman Shaikh... 
-🚀 Full Stack Web Developer 💻 <br />
+🚀 Full Stack Developer 💻 <br />
 ☕Turning Coffee into Code 💻 |
 Building Digital Dreams <br />
 🌟Passionate about creating seamless web experiences! <br /> 
