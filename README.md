@@ -1,4 +1,4 @@
--> 👋 Hi, I’m Salman Shaikh...
+-> 👋 Hi, I’m Salman Shaikh... <br />
 🚀 Full Stack Web Developer 💻 <br />
 ☕Turning Coffee into Code 💻 <br />
 Building Digital Dreams <br />
