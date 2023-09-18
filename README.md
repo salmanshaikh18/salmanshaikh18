@@ -1,6 +1,6 @@
--> 👋 Hi, I’m Salman Shaikh... <br />
+-> 👋 Hi, I’m Salman Shaikh... 
 🚀 Full Stack Web Developer 💻 <br />
-☕Turning Coffee into Code 💻 <br />
+☕Turning Coffee into Code 💻 |
 Building Digital Dreams <br />
 🌟Passionate about creating seamless web experiences! <br /> 
 Let's connect and code together! <br />
