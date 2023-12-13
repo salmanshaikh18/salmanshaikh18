@@ -1,13 +1,15 @@
 # 👋 Hi, I’m Salman Shaikh
 ## <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-## 🚀 Full Stack Developer 💻 
-## ☕ Turning Coffee into Code 💻
-## Building Digital Dreams
-## 🌟 Passionate about creating seamless web experiences!
-## Let's connect and code together!
+```markdown
+🚀 Full Stack Developer 💻 
+☕ Turning Coffee into Code 💻
+Building Digital Dreams
+🌟 Passionate about creating seamless web experiences!
+Let's connect and code together!
+```
 
 ## 👨‍💻 Technologies & Tools
+
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
