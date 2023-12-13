@@ -8,6 +8,8 @@ Building Digital Dreams
 🌟 Passionate about creating seamless web experiences!
 Let's connect and code together!
 
+Hello, I'm Salman Shaikh, a dedicated and ambitious full-stack developer currently pursuing a BCA degree from YCMOU, set to graduate in 2024. Proficient in the MERN stack, I recently completed a comprehensive full-stack development course from PW Skills, earning certification to validate my skills.
+
 ## 👨‍💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
