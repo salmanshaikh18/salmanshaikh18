@@ -1,14 +1,15 @@
-# 👋 Hi, I’m Salman Shaikh
+# 👋 Hello, I’m Salman Shaikh,
 
 <img width="35%" align="right" autoplay="true" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-🚀 A Full Stack Developer 💻 
+💻✨ Dedicated and ambitious Full Stack Developer 💻 currently pursuing a BCA degree from YCMOU 📚, set to graduate in 2024 🎓. 
+🚀 Proficient in the MERN stack, 🏆 I recently completed a comprehensive full-stack development course from PW Skills . 
+
+🚀 A Full Stack Developer  
 ☕ Turning Coffee into Code 💻
 Building Digital Dreams
 🌟 Passionate about creating seamless web experiences!
 Let's connect and code together!
-
-Hello, I'm Salman Shaikh, a dedicated and ambitious full-stack developer currently pursuing a BCA degree from YCMOU, set to graduate in 2024. Proficient in the MERN stack, I recently completed a comprehensive full-stack development course from PW Skills, earning certification to validate my skills.
 
 ## 👨‍💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
