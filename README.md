@@ -7,7 +7,6 @@
 ## 🌟 Passionate about creating seamless web experiences!
 ## Let's connect and code together!
 
-```markdown
 ## 👨‍💻 Technologies & Tools
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -17,7 +16,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-```
+
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-shaikh-aa15b9253/)
 📩 Connect via email: [salmanshaikh18786@gmail.com](mailto:salmanshaikh18786@gmail.com)
