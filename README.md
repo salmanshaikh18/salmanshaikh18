@@ -19,7 +19,7 @@
 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-shaikh-aa15b9253/)
-📩 Connect via email: [salmanshaikh18786@gmail.com](mailto:salmanshaikh18786@gmail.com)
+📩 Connect via email: [![salmanshaikh18786@gmail.com](mailto:salmanshaikh18786@gmail.com)
 
 
 
