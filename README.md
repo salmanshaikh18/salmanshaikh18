@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" autoplay="true" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-✨ Dedicated and ambitious `Full Stack Developer 💻` currently pursuing a `BCA` degree from `YCMOU` 📚, set to graduate in 2024 🎓. <br> 
+✨ Dedicated and ambitious `Full Stack Developer 💻` <br> 
 🚀 `Proficient in the MERN stack`, 🏆 I recently completed a comprehensive full-stack development course from PW Skills . 
 🌟 Passionate about creating seamless web experiences! <br>
 <a href="https://dev-salman-portfolio.vercel.app/" target="_blank">💻Click me to view my Portfolio</a>
