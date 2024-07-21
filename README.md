@@ -5,7 +5,7 @@
 ✨ Dedicated and ambitious `Full Stack Developer 💻` <br> 
 🚀 `Proficient in the MERN stack`, 🏆 I recently completed a comprehensive full-stack development course from PW Skills . 
 🌟 Passionate about creating seamless web experiences! <br>
-<a href="https://dev-salman-portfolio.vercel.app/" target="_blank">💻Click me to view my Portfolio</a>
+[💻Click me to view my Portfolio](https://salmanshaikh-dev.onrender.com/)
 
 ## 👨‍💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
