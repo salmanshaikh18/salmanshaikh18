@@ -2,10 +2,12 @@
 
 <img width="35%" align="right" autoplay="true" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-✨ Dedicated and ambitious `Full Stack Developer 💻` <br> 
-🚀 `Proficient in the MERN stack`, 🏆 I recently completed a comprehensive full-stack development course from PW Skills . 
-🌟 Passionate about creating seamless web experiences! <br>
-[💻Click me to view my Portfolio](https://salmanshaikh-dev.onrender.com/)
+`Full Stack Web Developer`. </br>
+I develop complete, high-quality `web applications`.</br>
+Expert in `MERN Stack, JavaScript, TypeScript`.</br>
+Explore my projects for dynamic, user-friendly, and innovative solutions.
+
+[👉 Click here to explore my Portfolio! 🚀](https://salmanshaikh-dev.onrender.com/)
 
 ## 👨‍💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -18,7 +20,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-shaikh-aa15b9253/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-shaikh-aa15b9253/) </br>
 📩 Connect via email: [salmanshaikh18786@gmail.com](mailto:salmanshaikh18786@gmail.com)
 
 
