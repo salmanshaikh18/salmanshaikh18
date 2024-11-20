@@ -7,7 +7,7 @@ I develop complete, high-quality `web applications`.</br>
 Expert in `MERN Stack, JavaScript, TypeScript`.</br>
 Explore my projects for dynamic, user-friendly, and innovative solutions.
 
-[👉 salmanshaikh.space](https://salmanshaikh.space)
+[👉 https://salmanshaikh.space](https://salmanshaikh.space)
 
 ## 👨‍💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
