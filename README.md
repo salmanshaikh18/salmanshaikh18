@@ -2,10 +2,11 @@
 
 <img width="35%" align="right" autoplay="true" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-`Full Stack Web Developer`. </br>
-I develop complete, high-quality `web applications`.</br>
-Expert in `MERN Stack, JavaScript, TypeScript`.</br>
-Explore my projects for dynamic, user-friendly, and innovative solutions.
+`Full Stack Developer`. </br>
+
+Full-Stack Developer with expertise in web and mobile application development. </br>
+I also work with DevOps and Generative AI, bringing modern automation and intelligence into development. </br>
+By combining these skills, I build scalable, innovative, and future-ready digital products that create real impact.
 
 [👉 https://salmanshaikh.space](https://salmanshaikh.space)
 
