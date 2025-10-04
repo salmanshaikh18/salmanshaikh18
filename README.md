@@ -8,7 +8,7 @@ Full-Stack Developer with expertise in web and mobile application development. <
 I also work with DevOps and Generative AI, bringing modern automation and intelligence into development. </br>
 By combining these skills, I build scalable, innovative, and future-ready digital products that create real impact.
 
-[👉 https://salmanshaikh.space](https://salmanshaikh.space)
+[👉 https://salmanshaikh.dev](https://salmanshaikh.dev)
 
 ## 👨‍💻 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
