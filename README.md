@@ -1,7 +1,5 @@
 <h1 align="center">Salman Shaikh</h1>
 
-## ✨ About Me
-
 - 💡 I’m Salman Shaikh, a Full Stack Developer with expertise in both frontend and backend, building scalable, high-performance applications.  
 - ⚙️ Always learning, always building.
 - 🌐 Portfolio: <a href="https://salmanshaikh.dev" target="_blank">salmanshaikh.dev</a>     
