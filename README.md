@@ -16,35 +16,28 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
-  <br />
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
-  <br />
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-111111?logo=vercel&logoColor=fff&style=for-the-badge" />
-  <br />
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-2E2E2E?logo=serverless&logoColor=fff&style=for-the-badge" />
-  <br />
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" />
-  <br />
   <!-- Mobile -->
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
-  <br />
   <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/DevOps-0A0A0A?logo=githubactions&logoColor=fff&style=for-the-badge" />
-  <br />
   <!-- Specializations -->
   <img src="https://img.shields.io/badge/GenAI-7B61FF?logo=google-genai&logoColor=fff&style=for-the-badge" />
 </p>
