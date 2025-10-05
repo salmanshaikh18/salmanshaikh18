@@ -1,30 +1,76 @@
-# 👋 Hello, I’m `Salman Shaikh`,
+<h1 align="center">Salman Shaikh</h1>
 
-<img width="35%" align="right" autoplay="true" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%26+Mobile+Engineer;DevOps+%7C+Cloud+%7C+Scalability" alt="Typing SVG" />
+</p>
 
-`Full Stack Developer`. </br>
+---
 
-Full-Stack Developer with expertise in web and mobile application development. </br>
-I also work with DevOps and Generative AI, bringing modern automation and intelligence into development. </br>
-By combining these skills, I build scalable, innovative, and future-ready digital products that create real impact.
+## ✨ About Me
 
-[👉 https://salmanshaikh.dev](https://salmanshaikh.dev)
+- 💡 I’m Salman Shaikh, a Full Stack Developer with expertise in both frontend and backend, building scalable, high-performance applications.  
+- ⚙️ Always learning, always building.
+- 🌐 Portfolio: <a href="https://salmanshaikh.dev" target="_blank">salmanshaikh.dev</a>     
 
-## 👨‍💻 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) </br>
+---
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black)
+## 🧰 Skills
 
-## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-shaikh-aa15b9253/) </br>
-📩 Connect via email: [dev.salmanshaikh@gmail.com](mailto:dev.salmanshaikh@gmail.com)
+<p align="center">
+  <!-- Core Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+  <br />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
+  <br />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-111111?logo=vercel&logoColor=fff&style=for-the-badge" />
+  <br />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-2E2E2E?logo=serverless&logoColor=fff&style=for-the-badge" />
+  <br />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" />
+  <br />
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <br />
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-0A0A0A?logo=githubactions&logoColor=fff&style=for-the-badge" />
+  <br />
+  <!-- Specializations -->
+  <img src="https://img.shields.io/badge/GenAI-7B61FF?logo=google-genai&logoColor=fff&style=for-the-badge" />
+</p>
 
+---
 
+## 📫 Connect
 
+<p align="center">
+  <a href="mailto:dev.salmanshaikh18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/salmandev18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
+  <a href="https://github.com/salmanshaikh18 target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220" />
+</p>
+
+<p align="center">
+  <b>Build with intent · Break with insight · Launch with impact</b>
+</p>
