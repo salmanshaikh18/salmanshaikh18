@@ -24,7 +24,7 @@ By combining these skills, I build scalable, innovative, and future-ready digita
 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-shaikh-aa15b9253/) </br>
-📩 Connect via email: [salmanshaikh18786@gmail.com](mailto:salmanshaikh18786@gmail.com)
+📩 Connect via email: [dev.salmanshaikh@gmail.com](mailto:dev.salmanshaikh@gmail.com)
 
 
 
