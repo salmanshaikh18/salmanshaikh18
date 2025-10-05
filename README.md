@@ -1,11 +1,5 @@
 <h1 align="center">Salman Shaikh</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Web+%26+Mobile+Engineer;DevOps+%7C+Cloud+%7C+Scalability" alt="Typing SVG" />
-</p>
-
----
-
 ## ✨ About Me
 
 - 💡 I’m Salman Shaikh, a Full Stack Developer with expertise in both frontend and backend, building scalable, high-performance applications.  
