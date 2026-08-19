@@ -102,8 +102,6 @@ const salman = {
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=7B61FF&height=2&section=header" width="100%" />
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
 <div align="center">
 
 <picture>
