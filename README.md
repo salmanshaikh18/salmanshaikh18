@@ -27,21 +27,21 @@ const salman = {
 
 <br>
 
-<h3 align="center">🧠 Tech Arsenal</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
 **Languages**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" />
 
-<br><br>
+<br>
 
 **Frontend**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
 
-<br><br>
+<br>
 
 **Mobile**
 <br>
@@ -49,25 +49,26 @@ const salman = {
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=for-the-badge" />
 
-<br><br>
+<br>
 
 **Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,socketio,prisma&theme=dark" />
-
 <br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma&theme=dark" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+<br>
 
 **Databases**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark" />
 
-<br><br>
+<br>
 
 **Cloud, DevOps & Monitoring**
-<br>
+<br><br>
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux,grafana,prometheus,sonarqube&theme=dark" />
 
-<br><br>
+<br>
 
 **Generative AI**
 <br>
@@ -79,7 +80,6 @@ const salman = {
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=fff" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Langfuse-7B61FF?style=for-the-badge" />
-
 </div>
 
 <br>
@@ -90,10 +90,27 @@ const salman = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=salmanshaikh18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanshaikh18&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B61FF&ring=00D4FF&fire=7B61FF&currStreakLabel=7B61FF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanshaikh18&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B61FF&ring=00D4FF&fire=7B61FF&currStreakLabel=7B61FF" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshaikh18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&text_color=c9d1d9&langs_count=8" width="49%" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanshaikh18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7B61FF&line=00D4FF&point=7B61FF&area=true&custom_title=Contribution%20Activity" width="90%" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7B61FF&height=2&section=header" width="100%" />
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanshaikh18/salmanshaikh18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanshaikh18/salmanshaikh18/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/salmanshaikh18/salmanshaikh18/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
 
