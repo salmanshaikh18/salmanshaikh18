@@ -129,9 +129,7 @@ const salman = {
 <a href="https://github.com/salmanshaikh18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge&labelColor=0D1117"></a>
 <a href="https://salmanshaikh.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7B61FF?logo=vercel&logoColor=fff&style=for-the-badge&labelColor=0D1117"></a>
 
-<br><br>
-
-<b>Build with intent · Break with insight · Launch with impact</b>
+<br>
 
 </div>
 
