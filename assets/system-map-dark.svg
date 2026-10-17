@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="826" viewBox="0 0 960 826" role="img" aria-labelledby="t d">
+<title id="t">System map: interface to infrastructure</title><desc id="d">Six engineering modules. M1 Product engineering: TypeScript, React, Next.js, Tailwind CSS, React Native. M2 Backend systems: Node.js, Express, FastAPI, REST APIs, WebSockets, Socket.IO. M3 Data layer: MongoDB, PostgreSQL, Redis, Prisma. M4 Cloud and DevOps: AWS, Docker, Linux, Nginx, GitHub Actions pipeline from commit to deploy. M5 Observability: Prometheus, Grafana, Loki. M6 AI engineering, marked as active exploration: Python, LangChain, LangGraph, RAG, MCP, AI agents, Qdrant, Pinecone, Neo4j.</desc>
+<style>
+@font-face{font-family:JBM;font-weight:400;src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:JBM;font-weight:500;src:url(data:font/woff2;base64,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) format('woff2')}
+@font-face{font-family:JBM;font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAAVMABAAAAAACXgAAATzAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIByCagZgP1NUQVRMAFwRCAqIWIcdATYCJAMoCygABCAFbAcgDAcbgQcRxYQk+JFguuVHOvvco0gk8qpD2Jg/6Bw8/0+bdt+fgcLMRLwiykzitYi2TkyIKEsPPaRubFfMNNL/APEsbW50JVVnCbo/ktxAQJona2p7BXKAjsGoSkksCSi+uuqVbztCNQfsiIybkhNK7YnOQFUJ0crEj2s/AAEsAEAhCDqCAAZjGY8UFq/w40EHGBYACGAwlQyUbDg2GIiEiBWDfJy0BYIRPIAGaIzASzKd/EaEL/iN3ySZiBvQiWU881mGhoiF1oCyMIAC3QFAQ3hH8AMgVqHvPYiD4ssehEdIcJ/uIp7JOJTSgIZwHYLyX4e9UpwDDSy5LGgoNsaFQ/uB3i80IWzEOLgCqk0omiRIcJ8CmY9GCh3cuC08JHqm0x5kls5h8rmfxtYWuqpRD8AF6hiRAyryg6UJnywDBV5GhsIPKM8HLsFEVmoDQwbagAwQADVdvQdMxIUgeFBAMgqYitrc1R0R4A+iG0gcgs5IFIC41QNA1YD66akIlMRDFUCxEUiWWJYUnVJP7F6nu5nIfDIooYyVw4KmL6T4N9znuqYkjPQEGVYc5CRuNh1IACkDuR7gA8YCAJKxNMStCs8wQmc1plrjEmMtc8xEa0qqZaXEmq4YLODJVeDYe0u0vfG2GfU3MfZe4xij9ogZVRFDTPbYG6aYmiExGMrEdJmVF6aUs/OEalM3xKH17Qk1Rt2FjgvA1aU8mlVRFc19tPrYkr3bjM7MPaDsl2pTT43z2OMhYr/xdogxjfn9McE+81gm4agh1ZbE4JcM2PGNGLGky2zHFPOSClXmhUfDPVZHGvVTlt+cuTfMt20WXyPZY9ebNSnX72c5bCpk70tTxh4X7nhlr5pRYQ9XV0VadrdrYoX4r8Wavbyhtua9pyIVjy+KLFjAAm9xt5PVkr+kIKu52yku6XSymwt2OR223W8vtTfbdpddviP431352S2dDnWh04dOD12xeAyy3juj+OvL3h079t3TCr4+473+z32u/hH9Rk9moGZje02Rt9MTcW3O+Jw53pKu9KxAfk5+ahwQJaWdq7PFfc77vhzf+07bbT87rmj8eHv8H0jHH3po8KHjB67eckbw3BCrt37+xS/zVs22tyxMfyBjJ0U57X2ZpUUddmbj8oLCXRWlZ5/hCzPVW9JtZzcu27XokONsXpi9aJOzLnzJGaP6zgm/+MDM4M5wIHtZdmOPzaFTi+4cefqJc++Y/uKVO69gtrdja7uramd66QKnalGJz+9MfPeubfqp54enyevj3plf6iypoTUYKGnbFmaOtyyUlxcqcyaHP70+Nfr2+vVLCibMzq3MXNBWUJLXE8wp78ksKM7OzVyZS2JutklbnTNpzpzJ44ebxCPvCK323Tl33h32mf0nl/c5uc35i331tem31BV9OME/bpx/wvgJBePnp8AMrMF/ATfWLWTs/2thsdegr0nGDCVJt9f2METDf0kOtw5sXqJ8pKGoP0f9iC+Zob+3q765OS7vT49o3wC8/9pV5wF89U9StjWtZqovOnD3Agj8qpZQNQNbWKhm/gSMgvNSxxpKqSOLQtaTSy7LKSaTl9gy9PTA9PQoAAIkMReNBTjPyEp7XT9oju5FeaFUBCw8824e4nDJf148BhPJZwNB2qmmgx666CZCGRECBOmhjXVs4AQChNAAYLgDHyCMOu+R4YO36McB) format('woff2')}
+text[font-family='JBM']{font-family:JBM, 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace}
+text[font-family='SG']{font-family:SG, 'Space Grotesk', Inter, 'Segoe UI', system-ui, sans-serif}
+
+.flow{stroke-dasharray:3 6;animation:flow 1.4s linear infinite}
+.back{stroke-dasharray:3 6;animation:flow 1.4s linear infinite reverse}
+@keyframes flow{to{stroke-dashoffset:-18}}
+.stage{animation:stage 6s ease-in-out infinite;opacity:0}
+@keyframes stage{0%{opacity:0}6%,16%{opacity:1}26%,100%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><clipPath id="bc"><rect width="960" height="826" rx="18"/></clipPath><pattern id="bp" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern><radialGradient id="bf" cx="50%" cy="50%" r="60%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient><mask id="bm"><rect width="960" height="826" fill="url(#bf)"/></mask><radialGradient id="br0" cx="480" cy="380" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B5CFF" stop-opacity="0.3"/><stop offset="1" stop-color="#8B5CFF" stop-opacity="0"/></radialGradient><clipPath id="cM1"><rect x="24" y="82" width="272" height="214" rx="10"/></clipPath><clipPath id="cM2"><rect x="344" y="82" width="272" height="214" rx="10"/></clipPath><clipPath id="cM3"><rect x="664" y="82" width="272" height="214" rx="10"/></clipPath><clipPath id="cM4"><rect x="24" y="346" width="912" height="150" rx="10"/></clipPath><clipPath id="cM5"><rect x="24" y="546" width="440.0" height="230" rx="10"/></clipPath><clipPath id="cM6"><rect x="496.0" y="546" width="440.0" height="230" rx="10"/></clipPath></defs>
+<g clip-path="url(#bc)"><rect width="960" height="826" fill="#07070D"/>
+<rect width="960" height="826" fill="url(#br0)"/>
+<rect width="960" height="826" fill="url(#bp)" mask="url(#bm)"/></g>
+<rect x=".5" y=".5" width="959" height="825" rx="18" fill="none" stroke="#22223A"/>
+<text x="28.0" y="34.0" font-family="JBM" font-weight="700" font-size="11" fill="#8B5CFF" xml:space="preserve" letter-spacing="1.6">FIG. 02</text>
+<text x="99.4" y="34.0" font-family="JBM" font-weight="400" font-size="11" fill="#9A9AB4" xml:space="preserve" letter-spacing="1.2">INTERFACE TO INFRASTRUCTURE  /  HOW THE PIECES I WORK WITH CONNECT</text>
+<text x="932.0" y="34.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve" text-anchor="end">exploring</text>
+<path d="M845.3 30.5H867.3" stroke="#5CE1FF" stroke-width="1.6" stroke-dasharray="4 3"/>
+<text x="827.3" y="34.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve" text-anchor="end">core stack</text>
+<path d="M734.3 30.5H756.3" stroke="#8B5CFF" stroke-width="1.6"/>
+<path d="M0 54.5H960" stroke="#22223A"/>
+<rect x="24" y="82" width="272" height="214" rx="10" fill="#0D0D17"/>
+<rect x="24" y="82" width="272" height="34" fill="#12121F" clip-path="url(#cM1)"/>
+<path d="M24 116.5H296" stroke="#22223A"/>
+<rect x="24.5" y="82.5" width="271" height="213" rx="10" fill="none" stroke="#33334F"/>
+<text x="40.0" y="104.0" font-family="JBM" font-weight="700" font-size="12" fill="#8B5CFF" xml:space="preserve">M1</text>
+<text x="68.0" y="104.0" font-family="JBM" font-weight="500" font-size="11" fill="#EDEDF5" xml:space="preserve" letter-spacing="1.6">PRODUCT ENGINEERING</text>
+<rect x="239.6" y="92" width="42.4" height="16" rx="8" fill="none" stroke="#5F5F7E" stroke-opacity=".7"/>
+<text x="260.8" y="103.5" font-family="JBM" font-weight="500" font-size="9.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="1.4">CORE</text>
+<path d="M42.8 136.3 L46.0 139.5 L42.8 142.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="144.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">TypeScript</text>
+<path d="M142.0 140.5H240.5" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="280.0" y="144.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">types</text>
+<path d="M42.8 163.3 L46.0 166.5 L42.8 169.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="171.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">React</text>
+<path d="M103.0 167.5H259.4" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="280.0" y="171.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">ui</text>
+<path d="M42.8 190.3 L46.0 193.5 L42.8 196.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="198.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Next.js</text>
+<path d="M118.6 194.5H196.4" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="280.0" y="198.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">ssr, routing</text>
+<path d="M42.8 217.3 L46.0 220.5 L42.8 223.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="225.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Tailwind CSS</text>
+<path d="M157.6 221.5H227.9" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="280.0" y="225.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">styling</text>
+<path d="M42.8 244.3 L46.0 247.5 L42.8 250.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="252.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">React Native</text>
+<path d="M157.6 248.5H234.2" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="280.0" y="252.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">mobile</text>
+<rect x="344" y="82" width="272" height="214" rx="10" fill="#0D0D17"/>
+<rect x="344" y="82" width="272" height="34" fill="#12121F" clip-path="url(#cM2)"/>
+<path d="M344 116.5H616" stroke="#22223A"/>
+<rect x="344.5" y="82.5" width="271" height="213" rx="10" fill="none" stroke="#33334F"/>
+<text x="360.0" y="104.0" font-family="JBM" font-weight="700" font-size="12" fill="#8B5CFF" xml:space="preserve">M2</text>
+<text x="388.0" y="104.0" font-family="JBM" font-weight="500" font-size="11" fill="#EDEDF5" xml:space="preserve" letter-spacing="1.6">BACKEND SYSTEMS</text>
+<rect x="559.6" y="92" width="42.4" height="16" rx="8" fill="none" stroke="#5F5F7E" stroke-opacity=".7"/>
+<text x="580.8" y="103.5" font-family="JBM" font-weight="500" font-size="9.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="1.4">CORE</text>
+<path d="M362.8 136.3 L366.0 139.5 L362.8 142.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="376.0" y="144.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Node.js, Express</text>
+<path d="M508.8 140.5H541.6" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600.0" y="144.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">services</text>
+<path d="M362.8 163.3 L366.0 166.5 L362.8 169.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="376.0" y="171.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">FastAPI, Python</text>
+<path d="M501.0 167.5H522.7" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600.0" y="171.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">python apis</text>
+<path d="M362.8 190.3 L366.0 193.5 L362.8 196.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="376.0" y="198.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">REST APIs</text>
+<path d="M454.2 194.5H535.3" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600.0" y="198.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">contracts</text>
+<path d="M362.8 217.3 L366.0 220.5 L362.8 223.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="376.0" y="225.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">WebSockets</text>
+<path d="M462.0 221.5H541.6" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600.0" y="225.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">realtime</text>
+<path d="M362.8 244.3 L366.0 247.5 L362.8 250.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="376.0" y="252.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Socket.IO</text>
+<path d="M454.2 248.5H554.2" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="600.0" y="252.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">events</text>
+<rect x="664" y="82" width="272" height="214" rx="10" fill="#0D0D17"/>
+<rect x="664" y="82" width="272" height="34" fill="#12121F" clip-path="url(#cM3)"/>
+<path d="M664 116.5H936" stroke="#22223A"/>
+<rect x="664.5" y="82.5" width="271" height="213" rx="10" fill="none" stroke="#33334F"/>
+<text x="680.0" y="104.0" font-family="JBM" font-weight="700" font-size="12" fill="#8B5CFF" xml:space="preserve">M3</text>
+<text x="708.0" y="104.0" font-family="JBM" font-weight="500" font-size="11" fill="#EDEDF5" xml:space="preserve" letter-spacing="1.6">DATA LAYER</text>
+<rect x="879.6" y="92" width="42.4" height="16" rx="8" fill="none" stroke="#5F5F7E" stroke-opacity=".7"/>
+<text x="900.8" y="103.5" font-family="JBM" font-weight="500" font-size="9.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="1.4">CORE</text>
+<path d="M682.8 136.3 L686.0 139.5 L682.8 142.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="696.0" y="144.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">MongoDB</text>
+<path d="M758.6 140.5H855.3" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="144.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">documents</text>
+<path d="M682.8 163.3 L686.0 166.5 L682.8 169.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="696.0" y="171.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">PostgreSQL</text>
+<path d="M782.0 167.5H849.0" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="171.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">relational</text>
+<path d="M682.8 190.3 L686.0 193.5 L682.8 196.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="696.0" y="198.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Redis</text>
+<path d="M743.0 194.5H880.5" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="198.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">cache</text>
+<path d="M682.8 217.3 L686.0 220.5 L682.8 223.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="696.0" y="225.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Prisma</text>
+<path d="M750.8 221.5H893.1" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="225.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">orm</text>
+<text x="320.0" y="174.0" font-family="JBM" font-weight="500" font-size="8.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="0.6">HTTP/WS</text>
+<path d="M300 188H338" stroke="#8B5CFF" stroke-width="1.4" class="flow"/>
+<path d="M336.5 184.5 L340.0 188.0 L336.5 191.5" fill="none" stroke="#8B5CFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M302 198H340" stroke="#5CE1FF" stroke-width="1.4" class="back"/>
+<path d="M303.5 194.5 L300.0 198.0 L303.5 201.5" fill="none" stroke="#5CE1FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="296" cy="193" r="2.5" fill="#07070D" stroke="#33334F"/>
+<circle cx="344" cy="193" r="2.5" fill="#07070D" stroke="#33334F"/>
+<text x="640.0" y="174.0" font-family="JBM" font-weight="500" font-size="8.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="0.6">QUERIES</text>
+<path d="M620 188H658" stroke="#8B5CFF" stroke-width="1.4" class="flow"/>
+<path d="M656.5 184.5 L660.0 188.0 L656.5 191.5" fill="none" stroke="#8B5CFF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M622 198H660" stroke="#5CE1FF" stroke-width="1.4" class="back"/>
+<path d="M623.5 194.5 L620.0 198.0 L623.5 201.5" fill="none" stroke="#5CE1FF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="616" cy="193" r="2.5" fill="#07070D" stroke="#33334F"/>
+<circle cx="664" cy="193" r="2.5" fill="#07070D" stroke="#33334F"/>
+<path d="M160.0 299V343" stroke="#33334F" stroke-width="1.2" class="flow"/>
+<circle cx="160.0" cy="346" r="3" fill="#8B5CFF"/>
+<path d="M480.0 299V343" stroke="#33334F" stroke-width="1.2" class="flow"/>
+<circle cx="480.0" cy="346" r="3" fill="#8B5CFF"/>
+<path d="M800.0 299V343" stroke="#33334F" stroke-width="1.2" class="flow"/>
+<circle cx="800.0" cy="346" r="3" fill="#8B5CFF"/>
+<text x="490.0" y="325.0" font-family="JBM" font-weight="400" font-size="10" fill="#5F5F7E" xml:space="preserve">ships onto</text>
+<rect x="24" y="346" width="912" height="150" rx="10" fill="#0D0D17"/>
+<rect x="24" y="346" width="912" height="34" fill="#12121F" clip-path="url(#cM4)"/>
+<path d="M24 380.5H936" stroke="#22223A"/>
+<rect x="24.5" y="346.5" width="911" height="149" rx="10" fill="none" stroke="#33334F"/>
+<text x="40.0" y="368.0" font-family="JBM" font-weight="700" font-size="12" fill="#8B5CFF" xml:space="preserve">M4</text>
+<text x="68.0" y="368.0" font-family="JBM" font-weight="500" font-size="11" fill="#EDEDF5" xml:space="preserve" letter-spacing="1.6">CLOUD &amp; DEVOPS</text>
+<rect x="886.7" y="356" width="35.3" height="16" rx="8" fill="none" stroke="#5F5F7E" stroke-opacity=".7"/>
+<text x="904.4" y="367.5" font-family="JBM" font-weight="500" font-size="9.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="1.4">OPS</text>
+<text x="44.0" y="416.0" font-family="JBM" font-weight="500" font-size="10" fill="#5F5F7E" xml:space="preserve" letter-spacing="1.6">STACK</text>
+<rect x="128" y="398" width="43.6" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<text x="139.0" y="416.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">AWS</text>
+<rect x="181.6" y="398" width="65.2" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<text x="192.6" y="416.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">Docker</text>
+<rect x="256.8" y="398" width="58.0" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<text x="267.8" y="416.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">Linux</text>
+<rect x="324.8" y="398" width="58.0" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<text x="335.8" y="416.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">Nginx</text>
+<rect x="392.8" y="398" width="122.8" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<text x="403.8" y="416.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">GitHub Actions</text>
+<text x="44.0" y="464.0" font-family="JBM" font-weight="500" font-size="10" fill="#5F5F7E" xml:space="preserve" letter-spacing="1.6">PIPELINE</text>
+<rect x="128" y="446" width="92" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<rect x="128" y="446" width="92" height="28" rx="6" fill="#8B5CFF" fill-opacity=".14" stroke="#8B5CFF" class="stage" style="animation-delay:0.0s"/>
+<text x="140.0" y="464.5" font-family="JBM" font-weight="700" font-size="10" fill="#8B5CFF" xml:space="preserve">01</text>
+<text x="162.0" y="464.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">commit</text>
+<path d="M225 460H240" stroke="#8B5CFF" stroke-width="1.3"/>
+<path d="M238.0 457.0 L241.0 460.0 L238.0 463.0" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="248" y="446" width="92" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<rect x="248" y="446" width="92" height="28" rx="6" fill="#8B5CFF" fill-opacity=".14" stroke="#8B5CFF" class="stage" style="animation-delay:0.9s"/>
+<text x="260.0" y="464.5" font-family="JBM" font-weight="700" font-size="10" fill="#8B5CFF" xml:space="preserve">02</text>
+<text x="282.0" y="464.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">build</text>
+<path d="M345 460H360" stroke="#8B5CFF" stroke-width="1.3"/>
+<path d="M358.0 457.0 L361.0 460.0 L358.0 463.0" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="368" y="446" width="92" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<rect x="368" y="446" width="92" height="28" rx="6" fill="#8B5CFF" fill-opacity=".14" stroke="#8B5CFF" class="stage" style="animation-delay:1.8s"/>
+<text x="380.0" y="464.5" font-family="JBM" font-weight="700" font-size="10" fill="#8B5CFF" xml:space="preserve">03</text>
+<text x="402.0" y="464.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">test</text>
+<path d="M465 460H480" stroke="#8B5CFF" stroke-width="1.3"/>
+<path d="M478.0 457.0 L481.0 460.0 L478.0 463.0" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="488" y="446" width="92" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<rect x="488" y="446" width="92" height="28" rx="6" fill="#8B5CFF" fill-opacity=".14" stroke="#8B5CFF" class="stage" style="animation-delay:2.7s"/>
+<text x="500.0" y="464.5" font-family="JBM" font-weight="700" font-size="10" fill="#8B5CFF" xml:space="preserve">04</text>
+<text x="522.0" y="464.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">image</text>
+<path d="M585 460H600" stroke="#8B5CFF" stroke-width="1.3"/>
+<path d="M598.0 457.0 L601.0 460.0 L598.0 463.0" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="608" y="446" width="92" height="28" rx="6" fill="#07070D" stroke="#33334F"/>
+<rect x="608" y="446" width="92" height="28" rx="6" fill="#8B5CFF" fill-opacity=".14" stroke="#8B5CFF" class="stage" style="animation-delay:3.6s"/>
+<text x="620.0" y="464.5" font-family="JBM" font-weight="700" font-size="10" fill="#8B5CFF" xml:space="preserve">05</text>
+<text x="642.0" y="464.5" font-family="JBM" font-weight="500" font-size="12" fill="#EDEDF5" xml:space="preserve">deploy</text>
+<text x="716.0" y="464.5" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve">via GitHub Actions</text>
+<path d="M244.0 499V543" stroke="#33334F" stroke-width="1.2" class="back"/>
+<circle cx="244.0" cy="546" r="3" fill="#8B5CFF"/>
+<text x="254.0" y="525.0" font-family="JBM" font-weight="400" font-size="10" fill="#5F5F7E" xml:space="preserve">metrics + logs</text>
+<path d="M716.0 499V543" stroke="#5CE1FF" stroke-width="1.4" stroke-dasharray="4 4"/>
+<circle cx="716.0" cy="546" r="3" fill="#07070D" stroke="#5CE1FF" stroke-width="1.4"/>
+<text x="706.0" y="525.0" font-family="JBM" font-weight="400" font-size="10" fill="#5F5F7E" xml:space="preserve" text-anchor="end">agents call services via APIs and MCP</text>
+<rect x="24" y="546" width="440.0" height="230" rx="10" fill="#0D0D17"/>
+<rect x="24" y="546" width="440.0" height="34" fill="#12121F" clip-path="url(#cM5)"/>
+<path d="M24 580.5H464.0" stroke="#22223A"/>
+<rect x="24.5" y="546.5" width="439.0" height="229" rx="10" fill="none" stroke="#33334F"/>
+<text x="40.0" y="568.0" font-family="JBM" font-weight="700" font-size="12" fill="#8B5CFF" xml:space="preserve">M5</text>
+<text x="68.0" y="568.0" font-family="JBM" font-weight="500" font-size="11" fill="#EDEDF5" xml:space="preserve" letter-spacing="1.6">OBSERVABILITY</text>
+<rect x="414.7" y="556" width="35.3" height="16" rx="8" fill="none" stroke="#5F5F7E" stroke-opacity=".7"/>
+<text x="432.4" y="567.5" font-family="JBM" font-weight="500" font-size="9.5" fill="#5F5F7E" xml:space="preserve" text-anchor="middle" letter-spacing="1.4">OPS</text>
+<path d="M42.8 600.3 L46.0 603.5 L42.8 606.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="608.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Prometheus</text>
+<path d="M142.0 604.5H395.9" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="448.0" y="608.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">metrics</text>
+<path d="M42.8 627.3 L46.0 630.5 L42.8 633.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="635.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Grafana</text>
+<path d="M118.6 631.5H377.0" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="448.0" y="635.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">dashboards</text>
+<path d="M42.8 654.3 L46.0 657.5 L42.8 660.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56.0" y="662.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Loki</text>
+<path d="M95.2 658.5H414.8" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="448.0" y="662.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">logs</text>
+<path d="M40 695H448.0" stroke="#22223A"/>
+<rect x="42.0" y="708" width="58.1" height="20" rx="4" fill="#07070D" stroke="#33334F"/>
+<text x="49.0" y="722.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve">service</text>
+<path d="M103.1 718H113.1" stroke="#5F5F7E"/>
+<path d="M111.5 715.4 L114.1 718.0 L111.5 720.6" fill="none" stroke="#5F5F7E" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118.1" y="708" width="64.4" height="20" rx="4" fill="#07070D" stroke="#33334F"/>
+<text x="125.1" y="722.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve">/metrics</text>
+<path d="M185.5 718H195.5" stroke="#5F5F7E"/>
+<path d="M193.9 715.4 L196.5 718.0 L193.9 720.6" fill="none" stroke="#5F5F7E" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="200.5" y="708" width="77.0" height="20" rx="4" fill="#07070D" stroke="#33334F"/>
+<text x="207.5" y="722.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve">Prometheus</text>
+<path d="M280.5 718H290.5" stroke="#5F5F7E"/>
+<path d="M288.9 715.4 L291.5 718.0 L288.9 720.6" fill="none" stroke="#5F5F7E" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="295.5" y="708" width="58.1" height="20" rx="4" fill="#07070D" stroke="#8B5CFF"/>
+<text x="302.5" y="722.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#EDEDF5" xml:space="preserve">Grafana</text>
+<rect x="42.0" y="738" width="77.0" height="20" rx="4" fill="#07070D" stroke="#33334F"/>
+<text x="49.0" y="752.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve">containers</text>
+<path d="M122.0 748H132.0" stroke="#5F5F7E"/>
+<path d="M130.4 745.4 L133.0 748.0 L130.4 750.6" fill="none" stroke="#5F5F7E" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="137.0" y="738" width="51.8" height="20" rx="4" fill="#07070D" stroke="#33334F"/>
+<text x="144.0" y="752.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve">stdout</text>
+<path d="M191.8 748H201.8" stroke="#5F5F7E"/>
+<path d="M200.2 745.4 L202.8 748.0 L200.2 750.6" fill="none" stroke="#5F5F7E" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="206.8" y="738" width="39.2" height="20" rx="4" fill="#07070D" stroke="#33334F"/>
+<text x="213.8" y="752.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#9A9AB4" xml:space="preserve">Loki</text>
+<path d="M249.0 748H259.0" stroke="#5F5F7E"/>
+<path d="M257.4 745.4 L260.0 748.0 L257.4 750.6" fill="none" stroke="#5F5F7E" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="264.0" y="738" width="58.1" height="20" rx="4" fill="#07070D" stroke="#8B5CFF"/>
+<text x="271.0" y="752.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#EDEDF5" xml:space="preserve">Grafana</text>
+<rect x="496.0" y="546" width="440.0" height="230" rx="10" fill="#0D0D17"/>
+<rect x="496.0" y="546" width="440.0" height="34" fill="#12121F" clip-path="url(#cM6)"/>
+<path d="M496.0 580.5H936.0" stroke="#22223A"/>
+<rect x="496.5" y="546.5" width="439.0" height="229" rx="10" fill="none" stroke="#5CE1FF" stroke-dasharray="5 4"/>
+<text x="512.0" y="568.0" font-family="JBM" font-weight="700" font-size="12" fill="#8B5CFF" xml:space="preserve">M6</text>
+<text x="540.0" y="568.0" font-family="JBM" font-weight="500" font-size="11" fill="#EDEDF5" xml:space="preserve" letter-spacing="1.6">AI ENGINEERING</text>
+<rect x="886.7" y="556" width="35.3" height="16" rx="8" fill="none" stroke="#5CE1FF" stroke-opacity=".7" stroke-dasharray="2 2"/>
+<text x="904.4" y="567.5" font-family="JBM" font-weight="500" font-size="9.5" fill="#5CE1FF" xml:space="preserve" text-anchor="middle" letter-spacing="1.4">R&amp;D</text>
+<path d="M514.8 600.3 L518.0 603.5 L514.8 606.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528.0" y="608.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Python</text>
+<path d="M582.8 604.5H861.6" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="608.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">language</text>
+<path d="M514.8 627.3 L518.0 630.5 L514.8 633.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528.0" y="635.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">LangChain, LangGraph</text>
+<path d="M692.0 631.5H830.1" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="635.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">orchestration</text>
+<path d="M514.8 654.3 L518.0 657.5 L514.8 660.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528.0" y="662.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">RAG</text>
+<path d="M559.4 658.5H855.3" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="662.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">retrieval</text>
+<path d="M514.8 681.3 L518.0 684.5 L514.8 687.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528.0" y="689.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">MCP, AI agents</text>
+<path d="M645.2 685.5H861.6" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="689.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">tool use</text>
+<path d="M514.8 708.3 L518.0 711.5 L514.8 714.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528.0" y="716.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Qdrant, Pinecone</text>
+<path d="M660.8 712.5H867.9" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="716.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">vectors</text>
+<path d="M514.8 735.3 L518.0 738.5 L514.8 741.7" fill="none" stroke="#8B5CFF" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="528.0" y="743.0" font-family="JBM" font-weight="400" font-size="13" fill="#EDEDF5" xml:space="preserve">Neo4j</text>
+<path d="M575.0 739.5H880.5" stroke="#33334F" stroke-dasharray="1 4" stroke-linecap="round"/>
+<text x="920.0" y="743.0" font-family="JBM" font-weight="400" font-size="10.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">graph</text>
+<text x="932.0" y="808.0" font-family="JBM" font-weight="400" font-size="9.5" fill="#5F5F7E" xml:space="preserve" text-anchor="end">solid = what I build and run   dashed = what I am actively exploring</text>
+</svg>
