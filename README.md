@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="100%" alt="Salman Shaikh, Full Stack Engineer. Building products from interface to infrastructure: interfaces, APIs, data, containers and cloud, now building with AI agents.">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Salman Shaikh, Full Stack Developer. Building products from interface to infrastructure. I build web apps end to end and deploy them myself, and I'm learning AI agents, RAG and system design. A code editor shows salman.config.ts mapping frontend, backend, data, DevOps and GenAI stacks, and a terminal starts web, api and agent services with docker compose.">
 </picture>
 
 <p align="center">
@@ -22,84 +22,62 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-01-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/section-01-light.svg">
-  <img src="./assets/section-01-dark.svg" width="100%" alt="01 Identity: how I build">
+  <img src="./assets/section-01-dark.svg" width="100%" alt="01 About: who I am">
 </picture>
 
-I'm a full stack developer in Mumbai with 2+ years of building production applications. I work across the whole path a feature travels: the interface people touch, the API behind it, the data model underneath, and the container and pipeline that put it in front of users.
+Hey, I'm Salman, a full stack developer from Mumbai. I've spent the last 2+ years building production apps end to end: the React or Next.js frontend, the Node.js or FastAPI backend, the database, and the Docker and AWS setup it all runs on.
+
+These days I'm also learning how to build with AI agents and RAG, and reading a lot about system design.
 
 ```ts
-const engineer = {
+const salman = {
   name:       "Salman Shaikh",
   base:       "Mumbai, India",
   role:       "Full Stack Developer",
-  experience: "2+ years shipping production applications",
-  ships:      ["interfaces", "APIs", "data layers", "deployments"],
-  operates:   ["Docker", "AWS", "Nginx", "CI/CD", "monitoring"],
-  exploring:  ["AI agents", "RAG", "LangGraph", "MCP", "system design"],
+  roles:      ["frontend", "backend", "devops", "genai"],
+  experience: "2+ years",
+  ships:      ["web + mobile UIs", "APIs", "data layers", "deployments"],
+  operates:   ["AWS", "Docker", "Linux", "Nginx", "GitHub Actions"],
+  observes:   ["Prometheus", "Grafana", "Loki", "SonarQube"],
+  exploring:  ["AI agents", "RAG", "LangGraph", "MCP", "Ollama", "system design"],
 } as const;
 ```
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>P.01</code></sub><br>
-      <b>Own the whole path</b><br>
-      <sub>UI, API, schema, container, deploy. Fewer hand-offs means fewer gaps for bugs to hide in.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>P.02</code></sub><br>
-      <b>Contracts before code</b><br>
-      <sub>Typed interfaces, explicit schemas and predictable errors, so the frontend and backend agree before they ship.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>P.03</code></sub><br>
-      <b>Automate the repeatable</b><br>
-      <sub>Dockerised environments and GitHub Actions pipelines, so a deploy is a commit rather than a ritual.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <sub><code>P.04</code></sub><br>
-      <b>Shipped means observable</b><br>
-      <sub>Metrics, logs and dashboards with Prometheus, Loki and Grafana, so problems are found by graphs before users.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>P.05</code></sub><br>
-      <b>AI as a systems problem</b><br>
-      <sub>Exploring agents and RAG with the same discipline as any backend: retrieval quality, tool boundaries, tracing.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <sub><code>P.06</code></sub><br>
-      <b>Design for scale</b><br>
-      <sub>Studying system design: caching, queues and the trade-offs that decide how a backend scales.</sub>
-    </td>
-  </tr>
-</table>
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-02-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/section-02-light.svg">
-  <img src="./assets/section-02-dark.svg" width="100%" alt="02 System map: interface to infrastructure">
+  <img src="./assets/section-02-dark.svg" width="100%" alt="02 Roles: what I work on">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-map-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/system-map-light.svg">
-  <img src="./assets/system-map-dark.svg" width="100%" alt="System map of six modules. M1 Product engineering: TypeScript, React, Next.js, Tailwind CSS, React Native. M2 Backend systems: Node.js, Express, FastAPI, REST APIs, WebSockets, Socket.IO. M3 Data layer: MongoDB, PostgreSQL, Redis, Prisma. M4 Cloud and DevOps: AWS, Docker, Linux, Nginx, and a GitHub Actions pipeline from commit to deploy. M5 Observability: Prometheus, Grafana, Loki. M6 AI engineering, marked as active exploration: Python, LangChain, LangGraph, RAG, MCP, AI agents, Qdrant, Pinecone, Neo4j.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/roles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/roles-light.svg">
+  <img src="./assets/roles-dark.svg" width="100%" alt="Roles. Full Stack Developer: TypeScript, JavaScript, Python, system design, end-to-end delivery. Frontend (apps/web): React, Next.js, Redux, Tailwind CSS, HTML, CSS, React Native, Expo. Backend (services/api): Node.js, Express, FastAPI, REST APIs, WebSockets, Socket.IO, MongoDB, PostgreSQL, Redis, Prisma. DevOps (infra): AWS, Linux, Nginx, Docker, GitHub Actions, CI/CD, Prometheus, Grafana, Loki, SonarQube. GenAI (agents), actively exploring: LangChain, LangGraph, MCP, AI agents, RAG, Qdrant, Pinecone, Neo4j, Ollama, Langfuse.">
 </picture>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,fastapi,py,mongodb,postgres,redis,prisma,aws,docker,linux,nginx,githubactions,prometheus,grafana&perline=10&theme=dark" width="62%" alt="Toolchain: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, FastAPI, Python, MongoDB, PostgreSQL, Redis, Prisma, AWS, Docker, Linux, Nginx, GitHub Actions, Prometheus, Grafana">
-</p>
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-03-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/section-03-light.svg">
-  <img src="./assets/section-03-dark.svg" width="100%" alt="03 Telemetry: GitHub activity">
+  <img src="./assets/section-03-dark.svg" width="100%" alt="03 System map: how it fits together">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-map-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/system-map-light.svg">
+  <img src="./assets/system-map-dark.svg" width="100%" alt="System map of six modules. M1 Product engineering: TypeScript, JavaScript, HTML, CSS, React, Redux, Next.js, Tailwind CSS, React Native, Expo. M2 Backend systems: Node.js, Express, FastAPI, REST APIs, WebSockets, Socket.IO. M3 Data layer: MongoDB, PostgreSQL, Redis, Prisma. M4 Cloud and DevOps: AWS, Docker, Linux, Nginx, and a GitHub Actions CI/CD pipeline from commit to deploy. M5 Observability and quality: Prometheus, Grafana, Loki, SonarQube. M6 AI engineering, marked as active exploration: Python, LangChain, LangGraph, RAG, MCP, AI agents, Ollama, Qdrant, Pinecone, Neo4j, Langfuse.">
+</picture>
+
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-04-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-04-light.svg">
+  <img src="./assets/section-04-dark.svg" width="100%" alt="04 GitHub: recent activity">
 </picture>
 
 <p align="center">
@@ -129,21 +107,21 @@ const engineer = {
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-04-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/section-04-light.svg">
-  <img src="./assets/section-04-dark.svg" width="100%" alt="04 Channels: open a connection">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-05-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-05-light.svg">
+  <img src="./assets/section-05-dark.svg" width="100%" alt="05 Contact: say hi">
 </picture>
 
-| Channel | Endpoint | Best for |
+| | Where | For |
 | :-- | :-- | :-- |
-| `https` | [salmanshaikh.dev](https://salmanshaikh.dev) | Projects, write-ups and the longer version of this page |
-| `linkedin` | [in/salmandev18](https://linkedin.com/in/salmandev18) | Roles, collaborations and professional context |
-| `smtp` | [dev.salmanshaikh@gmail.com](mailto:dev.salmanshaikh@gmail.com) | Product ideas, backend problems and AI tooling to build together |
+| `https` | [salmanshaikh.dev](https://salmanshaikh.dev) | My projects and more about me |
+| `linkedin` | [in/salmandev18](https://linkedin.com/in/salmandev18) | Job opportunities and work stuff |
+| `smtp` | [dev.salmanshaikh@gmail.com](mailto:dev.salmanshaikh@gmail.com) | Ideas, questions, or just to say hi |
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img src="./assets/footer-dark.svg" width="100%" alt="Build it. Ship it. Run it. Then make it smarter. Useful products, reliable systems, AI-powered tools.">
+  <img src="./assets/footer-dark.svg" width="100%" alt="Got something to build? Let's talk. Email dev.salmanshaikh@gmail.com or visit salmanshaikh.dev.">
 </picture>
